@@ -14,7 +14,7 @@ public class Main {
 		A.setDescrizione("jasjhhfjfraaaaaaaaaaaaaagwerrrrrrr");
 		A.setDescrizione("jasjrrrrr");
 		A.setPrezzo(57.32);
-		A.setPrezzo(-57.32);
+		A.setPrezzo(0);
 		
 		
 		System.out.println("Nome: " + A.getNome() + "  " + A.getnomeEsteso());

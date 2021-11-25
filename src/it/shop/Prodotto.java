@@ -76,8 +76,6 @@ public class Prodotto {
 	public void setPrezzo(double prezzo) {
 		if (prezzo < 0.0) {
 			System.out.println("Prezzo non valido");
-		}else if (prezzo == 0.0){
-			System.out.println("GRATIS");
 		}else {
 			this.prezzo = prezzo;
 		}
